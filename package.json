@@ -7,7 +7,8 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "jest lib/shape.test.js"
+    "test": "jest lib/shape.test.js",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",

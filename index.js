@@ -51,7 +51,7 @@ const questions = () => {
       // Generate the SVG code for the shape
       const svg = `<svg xmlns="http://www.w3.org/2000/svg">
         ${shape.render()}
-        <text x="150" y="100" text-anchor="middle" fill="${answers.textColor}">${answers.text}</text>
+        <x="150" y="125" font-size="60" text-anchor="middle" fill="${answers.textColor}">${answers.text}</text>
       </svg>`;
 
       // Write the SVG code to a file
