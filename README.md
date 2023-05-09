@@ -23,10 +23,9 @@ npm i -d
 ```
 
 ## Usage
-### CLICK on gif for a full video on package installation, testing, and svg generator demo
-[![Demo of Super Very Good Image Maker](./assets/Untitled_%20May%208%2C%202023%201_22%20AM.gif)](https://drive.google.com/file/d/1PI5swRYFjqNKTD2jA5uh2PJqyogykJGK/view?usp=sharing)
-### CLICK on gif for a full video on package installation, testing, and svg generator demo
+  <a href="./assets/Untitled_%20May%208%2C%202023%201_22%20AM.gif"><img src="./assets/Untitled_%20May%208%2C%202023%201_22%20AM.gif"></a>
 
+[watch video here](https://drive.google.com/file/d/1PI5swRYFjqNKTD2jA5uh2PJqyogykJGK/view?usp=sharing)
 
 To use Super Very Good Image Maker, navigate to the project directory and run the following command:
 ```
