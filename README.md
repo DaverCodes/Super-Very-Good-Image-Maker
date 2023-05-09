@@ -23,7 +23,7 @@ npm i -d
 ```
 
 ## Usage
-  <a href="./assets/Untitled_%20May%208%2C%202023%201_22%20AM.gif"><img src="./assets/Untitled_%20May%208%2C%202023%201_22%20AM.gif"></a>
+<img src="./assets/Untitled_%20May%208%2C%202023%201_22%20AM.gif"></a>
 
 [watch video of installation, test, and demonstration here](https://drive.google.com/file/d/1PI5swRYFjqNKTD2jA5uh2PJqyogykJGK/view?usp=sharing)
 
